@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- Skills : Excel (Lookups, Pivot Tables , Power Query , Dashboards)
-
-  SQL(MySQL)
-
-  PowerBI (Power Query, DAX )
+- Skills **Excel (Lookups, Pivot Tables , Power Query , Dashboards) SQL(MySQL) PowerBI (Power Query, DAX )**
 
 - 📫 How to reach me **hardip790@gmail.com**
 
@@ -26,6 +22,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardip001&show_icons=true&locale=en&layout=compact" alt="hardip001" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hardip001&show_icons=true&locale=en" alt="hardip001" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardip001&" alt="hardip001" /></p>
 
